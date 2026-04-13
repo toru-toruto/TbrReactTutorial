@@ -1,0 +1,12 @@
+.section {
+  background-color: #3b3b3b;
+  border-radius: 16px;
+  padding: 20px;
+}
+
+.sectionLabel {
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  color: #cbcbcb;
+  margin-bottom: 16px;
+}
