@@ -1,0 +1,32 @@
+.card {
+  padding: 20px;
+  border: 0.5px solid #ccc;
+  border-radius: 12px;
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  background-color: #3b3b3b;
+}
+
+.cardName {
+  font-size: 16px;
+  font-weight: bold;
+  color: #f0f0f0;
+}
+
+.cardRole {
+  font-size: 13px;
+  color: #f0f0f0;
+}
+
+.cardButton {
+  width: 100%;
+  padding: 8px;
+  border: 0.5px solid #cbcbcb;
+  border-radius: 6px;
+  background-color: transparent;
+  font-size: 13px;
+  color: #f0f0f0;
+  cursor: pointer;
+}

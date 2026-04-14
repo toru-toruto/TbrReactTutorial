@@ -1,3 +1,7 @@
 :root {
   background-color: #eaeaea;
 }
+
+p {
+  margin: 0px;
+}
