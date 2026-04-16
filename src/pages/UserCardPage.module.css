@@ -1,0 +1,10 @@
+.resized {
+  margin-top: 16px;
+  padding: 8px 16px;
+  display: inline-block;
+  background-color: #2a7e2d;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 6px;
+}
